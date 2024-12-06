@@ -13,7 +13,7 @@ python vulnscanner.py https://hedefsite.com
 
 ---
 
-### 🚀 Özellikler
+## 🚀 Özellikler
 - HTTP güvenlik başlıklarının kontrolü
 - Açık dizin taraması
 - XSS gibi zafiyetleri temel düzeyde algılama
