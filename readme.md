@@ -1,4 +1,4 @@
-#TR
+# TR
 # VulnScanner - Basit Web Güvenlik Tarayıcısı
 
 **VulnScanner**, bir web uygulamasının temel güvenlik zafiyetlerini tespit etmeye yönelik geliştirilmiş bir araçtır. Bu araç, HTTP yanıtlarını analiz ederek potansiyel güvenlik açıklarını (örneğin, XSS, açık dizinler, güvenlik başlık eksiklikleri) tespit etmeyi hedefler.
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EN
+# EN
 # VulnScanner - Basic Web Security Scanner
 
 VulnScanner is a Python-based tool designed to identify basic security vulnerabilities in web applications. It scans a target website for missing security headers, open directories, and potential XSS (Cross-Site Scripting) vulnerabilities.
