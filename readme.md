@@ -21,7 +21,7 @@ python vulnscanner.py https://hedefsite.com
 
 ---
 
-### 📋  Gereksinimler
+## 📋  Gereksinimler
 - Python 3.7+
 - Gerekli kütüphaneler (aşağıda `requirements.txt` dosyasına bakın):
   - `requests`
@@ -29,7 +29,7 @@ python vulnscanner.py https://hedefsite.com
 
 ---
 
-### ⚙️Kurulum
+## ⚙️Kurulum
 
 git clone https://github.com/haliteren/vulnscanner
 cd VulnScanner
