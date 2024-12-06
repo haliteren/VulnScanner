@@ -30,7 +30,7 @@ python vulnscanner.py https://hedefsite.com
 ---
 
 ### ⚙️Kurulum
-```bash
+
 git clone https://github.com/kullaniciadi/VulnScanner.git
 cd VulnScanner
 pip install -r requirements.txt
