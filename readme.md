@@ -5,7 +5,7 @@
 
 ---
 
-##Kullanım
+### Kullanım
 
 Hedef URL'yi taramak için:
 
@@ -31,7 +31,7 @@ python vulnscanner.py https://hedefsite.com
 
 ### ⚙️Kurulum
 
-git clone https://github.com/kullaniciadi/VulnScanner.git
+git clone https://github.com/haliteren/vulnscanner
 cd VulnScanner
 pip install -r requirements.txt
 
@@ -44,7 +44,7 @@ VulnScanner is a Python-based tool designed to identify basic security vulnerabi
 
 ---
 
-##Usage
+### Usage
 
 To scan the target URL:
 
@@ -70,7 +70,6 @@ python vulnscanner.py https://targetsite.com
 ## ⚙️ Installation
 Clone the repository and install the dependencies:
 
-```bash
-git clone https://github.com/<your-username>/VulnScanner.git
+git clone https://github.com/haliteren/vulnscanner
 cd VulnScanner
 pip install -r requirements.txt
