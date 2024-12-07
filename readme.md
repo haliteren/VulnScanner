@@ -32,7 +32,9 @@ python vulnscanner.py https://hedefsite.com
 ## ⚙️Kurulum
 
 git clone https://github.com/haliteren/vulnscanner
+
 cd VulnScanner
+
 pip install -r requirements.txt
 
 --------------------------------------------
@@ -72,5 +74,7 @@ python vulnscanner.py https://targetsite.com
 Clone the repository and install the dependencies:
 
 git clone https://github.com/haliteren/vulnscanner
+
 cd VulnScanner
+
 pip install -r requirements.txt
